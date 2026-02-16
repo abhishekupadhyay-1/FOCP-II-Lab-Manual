@@ -22,6 +22,8 @@ class Car
 int main()
 {
     Car c1;
+
+    
     c1.car_entry();
     c1.car_type="Hatchback";
     c1.display();
