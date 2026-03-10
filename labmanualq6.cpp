@@ -21,4 +21,5 @@ int main()
         cout<<"Net Salary:"<<netSalary<<endl;
     }
     return 0;
-}
+    
+}    
